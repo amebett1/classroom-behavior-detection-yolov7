@@ -1,0 +1,4 @@
+names: [hand_raise, read, write]
+nc: 3
+train: C:/Users/PC/Downloads/content/SCBYOLO/images/train
+val: C:/Users/PC/Downloads/content/SCBYOLO/images/val
